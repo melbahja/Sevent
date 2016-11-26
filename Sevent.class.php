@@ -1,4 +1,11 @@
 <?php
+/**
+ * @package   Sevent
+ * @author    Mohamed Elbahja <Mohamed@elbahja.me>
+ * @copyright 2016 Dinital 
+ * @version   1.1
+ * @link http://www.dinital.com
+ */
 
 class Sevent
 {
